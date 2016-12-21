@@ -42,5 +42,6 @@ Feature: TC-112
       | Berlijn   | Hotel IntelliJ     | Triple   | 4           | 5             |
       | Berlijn   | Hotel Juiste naam  | Triple   | 4           | 5             |
       | Berlijn   | Hotel Eigen branch | Triple   | 4           | 5             |
+      | Berlijn   | Hotel Git Check    | Triple   | 4           | 5             |
 
 
