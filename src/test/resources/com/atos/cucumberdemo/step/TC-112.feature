@@ -38,5 +38,6 @@ Feature: TC-112
       | Sydney    | Hotel Creek    | Standard | 1           | 1             |
       | London    | Hotel Sunshine | Double   | 3           | 3             |
       | Gorredijk | Hotel Geentijd | Triple   | 4           | 5             |
+      | Berlijn   | Hotel Test     | Triple   | 4           | 5             |
 
 
