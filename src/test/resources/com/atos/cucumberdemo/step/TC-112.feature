@@ -39,5 +39,6 @@ Feature: TC-112
       | London    | Hotel Sunshine | Double   | 3           | 3             |
       | Gorredijk | Hotel Geentijd | Triple   | 4           | 5             |
       | Berlijn   | Hotel Test     | Triple   | 4           | 5             |
+      | Berlijn   | Hotel IntelliJ | Triple   | 4           | 5             |
 
 
