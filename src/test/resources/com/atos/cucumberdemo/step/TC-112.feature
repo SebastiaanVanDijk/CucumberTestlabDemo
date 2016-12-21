@@ -34,11 +34,12 @@ Feature: TC-112
     And the day that I check out is "5" days from now
     Then the search results in an error message
     Examples:
-      | Location  | Hotels         | Roomtype | NumberRooms | AdultsPerRoom |
-      | Sydney    | Hotel Creek    | Standard | 1           | 1             |
-      | London    | Hotel Sunshine | Double   | 3           | 3             |
-      | Gorredijk | Hotel Geentijd | Triple   | 4           | 5             |
-      | Berlijn   | Hotel Test     | Triple   | 4           | 5             |
-      | Berlijn   | Hotel IntelliJ | Triple   | 4           | 5             |
+      | Location  | Hotels                   | Roomtype | NumberRooms | AdultsPerRoom |
+      | Sydney    | Hotel Creek              | Standard | 1           | 1             |
+      | London    | Hotel Sunshine           | Double   | 3           | 3             |
+      | Gorredijk | Hotel Geentijd           | Triple   | 4           | 5             |
+      | Berlijn   | Hotel Test               | Triple   | 4           | 5             |
+      | Berlijn   | Hotel IntelliJ           | Triple   | 4           | 5             |
+      | Berlijn   | Hotel Juiste commit naam | Triple   | 4           | 5             |
 
 
